@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Co-founder & CEO @languagehood . Full-stack developer in progress. Passionate about startups, EdTech, and building impactful products.
+
 <!--
 **keremcanyesildag/keremcanyesildag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
